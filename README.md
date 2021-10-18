@@ -13,7 +13,7 @@ C++ -ish</br>
 
 Contact Me</br>
 Chat with me on Discord: Sir Blob#7022</br>
-[Email](https://sirblob0@gmail.com)
+Email: <a>sirblob0@gmail.com</a>
 
 <!--
 **GamerBoss101/GamerBoss101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
