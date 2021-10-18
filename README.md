@@ -1,9 +1,9 @@
 ### Hoi There I am SirBlob (aka GamerBoss101) 👋
 
 
-[![MY Stats](https://github-readme-stats.vercel.app/api?username=GamerBoss101)](https://github.com/anuraghazra/github-readme-stats) 
+[![MY Stats](https://github-readme-stats.vercel.app/api?username=GamerBoss101&layout=compact&show_icons=true)](https://github.com/GamerBoss101) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerBoss101&layout=compact)](https://github.com/GamerBoss101)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerBoss101&layout=compact&show_icons=true)](https://github.com/GamerBoss101)
 
 
 <!--
