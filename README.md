@@ -3,11 +3,11 @@
 Hoi, I am Sir Blob a 15 year old developer that loves making things. I like coding fun projects and playing Video Games. Games that I play the most are Minecraft and Genshin Impact. A project that I am working on right now is Statcord.
 
 Languages IK: 
-Javascript
-HTML/CSS
-Java
-Python
-C++ -ish
+Javascript</br>
+HTML/CSS</br>
+Java</br>
+Python</br>
+C++ -ish</br>
 
 [![MY Stats](https://github-readme-stats.vercel.app/api?username=GamerBoss101&layout=compact&show_icons=true)](https://github.com/GamerBoss101) [![Statcord Stats](https://github-readme-stats.vercel.app/api/pin?username=GamerBoss101&repo=Statcord&show_owner=true)](https://github.com/GamerBoss101/Statcord) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerBoss101&layout=compact&show_icons=true)](https://github.com/GamerBoss101)
 
