@@ -9,7 +9,10 @@ Java</br>
 Python</br>
 C++ -ish</br>
 
-[![MY Stats](https://github-readme-stats.vercel.app/api?username=GamerBoss101&layout=compact&show_icons=true)](https://github.com/GamerBoss101) [![Statcord Stats](https://github-readme-stats.vercel.app/api/pin?username=GamerBoss101&repo=Statcord&show_owner=true)](https://github.com/GamerBoss101/Statcord)
+[![MY Stats](https://github-readme-stats.vercel.app/api?username=GamerBoss101&layout=compact&show_icons=true)](https://github.com/GamerBoss101) 
+[![MY Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerBoss101&layout=compact)
+[![Statcord Stats](https://github-readme-stats.vercel.app/api/pin?username=GamerBoss101&repo=Statcord&show_owner=true)](https://github.com/GamerBoss101/Statcord)
+
 
 Contact Me</br>
 Chat with me on Discord: Sir Blob#7022</br>
