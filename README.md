@@ -1,6 +1,6 @@
 ### Hoi! I am SirBlob (aka GamerBoss101) 👋
 
-Hoi, I am Sir Blob a developer that loves making things. I like coding fun projects and playing Video Games. Games that I play the most are Minecraft and Genshin Impact. A project that I am working on right now is Statcord.
+Hoi, I am Sir Blob a developer that loves making things. I like coding fun projects and playing Video Games. Games that I play the most are Minecraft and Genshin Impact. A project that I am working on right now is TGS. ( You can find this project under Bosstop Studios repositories)
 
 Languages IK: </br>
 Javascript</br>
