@@ -6,7 +6,7 @@ Languages IK: </br>
 Javascript</br>
 HTML/CSS</br>
 Java</br>
-Python</br>
+Python -ish</br>
 C++/C# -ish</br>
 
 [![MY Stats](https://github-readme-stats.vercel.app/api?username=GamerBoss101&layout=compact&show_icons=true)](https://github.com/GamerBoss101)<br>
