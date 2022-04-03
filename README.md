@@ -15,5 +15,5 @@ C++/C# -ish</br>
 
 Contact Me</br>
 Chat with me on Discord: Sir Blob#7022</br>
-Email: <a>sirblob0@gmail.com</a>
+Email: <a>sirblob@bosstop.ml</a>
 
