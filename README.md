@@ -1,6 +1,6 @@
-### Hoi! I am SirBlob (aka GamerBoss101) 👋
+### Hoi! I am Sir Blob (aka GamerBoss101) 👋
 
-Hoi, I am Sir Blob a developer that loves making things. I like coding fun projects and playing Video Games. Games that I play the most are Minecraft and Genshin Impact. A project that I am working on right now is TGS. ( You can find this project under Bosstop Studios repositories)
+Hi, I am Sir Blob (aka GamerBoss101) a developer that loves making things. I like coding fun projects and playing Video Games. Games that I play the most are Minecraft. Some projects that I am working on right now is [CodeRun](https://sirblob.bosstop.tech/coderun) and [TGS](https://sirblob.bosstop.tech/games/tgs).
 
 Languages IK: </br>
 Javascript</br>
@@ -14,6 +14,6 @@ C++/C# -ish</br>
 
 
 Contact Me</br>
-Chat with me on Discord: Sir Blob#6276</br>
+Chat with me on Discord: sir_blob_</br>
 Email: <a>sirblob@bosstop.tech</a>
 
