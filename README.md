@@ -1,7 +1,7 @@
 ### Hoi! I am Sir Blob (aka GamerBoss101) 👋
 
 Hi, I am Sir Blob (aka GamerBoss101) a developer that loves making things. My passion is using Computer Science with practical Engineering to enhance technology for the future. Therefore, I do fun coding projects, Game Jams, and Hackathons. I like to play video games, like Minecraft and Pokémon TCG Live. 
-A project I am working on right now is [TGS](https://dev.sirblob.me/games/tgs).
+<!-- A project I am working on right now is [TGS](https://dev.sirblob.me/games/tgs). -->
 
 ## Languages
 ![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,js,ts,html,css)
