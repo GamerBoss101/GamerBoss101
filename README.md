@@ -3,17 +3,20 @@
 Hi, I am Sir Blob (aka GamerBoss101) a developer that loves making things. My passion is using Computer Science with practical Engineering to enhance technology for the future. Therefore, I do fun coding projects, Game Jams, and Hackathons. I like to play video games, like Minecraft and Pokémon TCG Live. 
 A project I am working on right now is [TGS](https://dev.sirblob.me/games/tgs).
 
-Languages IK: </br>
-Javascript</br>
-HTML/CSS</br>
-Java</br>
-Python -ish</br>
-C++/C# -ish</br>
+## Languages
+![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,js,ts,html,css)
+## Tech Stack
+![My Stack](https://skillicons.dev/icons?i=windows,linux,apple,vscode,idea,git,mongodb)
 
-[![MY Stats](https://github-readme-stats.vercel.app/api?username=GamerBoss101&layout=compact&show_icons=true)](https://github.com/GamerBoss101)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerBoss101&layout=compact)](https://github.com/GamerBoss101)<br>
+## Links
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gmanjunatha/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/GamerBoss101)
 
 
-Contact Me</br>
-Chat with me on Discord: sir_blob_</br>
+<details>
+  <summary>Github Stats ⚡</summary>
+
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=GamerBoss101&layout=compact&show_icons=true?username=tandpfun&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerBoss101&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+</details>
 
