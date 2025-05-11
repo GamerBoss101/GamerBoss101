@@ -1,7 +1,11 @@
 ### Hoi! I am Sir Blob (aka GamerBoss101) 👋
 
-Hi, I am **Sir Blob** a developer that loves making things. My passion is using Computer Science with practical Engineering to enhance technology for the future. Therefore, I do fun side quests like: Robotics, Game Jams, and Hackathons. I like to play video games like: Minecraft and Pokémon TCG Live.
+I love making things. My passion is using Computer Science with practical Engineering to enhance technology for the future. Therefore, I do fun side quests like: Robotics, Game Jams, and Hackathons. I like to play video games like: Minecraft and Pokémon TCG Live.
 <!-- A project I am working on right now is [TGS](https://dev.sirblob.me/games/tgs). -->
+
+<a align="center" href="https://discord.com/users/654765210866810880">
+    <img src="https://lanyard.cnrad.dev/api/654765210866810880?theme=dark&idleMessage=Just%20Chilling!&bg=000000&showDisplayName=true" />
+</a>
 
 ## Languages
 ![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,js,ts,html,css)
@@ -24,4 +28,3 @@ Hi, I am **Sir Blob** a developer that loves making things. My passion is using 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=GamerBoss101&layout=compact&show_icons=true?username=tandpfun&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerBoss101&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
 </details>
-
